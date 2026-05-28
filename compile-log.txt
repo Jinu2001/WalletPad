@@ -1,0 +1,13 @@
+﻿javac.exe : D:\Java\Expense 
+Tracker\src\com\expensetracker\ui\ReportWindow.java:252: error: local 
+variables referenced from an inner class must be final or effectively final
+At line:1 char:46
++ ...  $compile = & 'C:\java17\bin\javac.exe' -encoding UTF-8 -cp 'd:\Java\ ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (D:\Java\Expense...fectively final 
+   :String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+                    g2.setColor(progressFillColor);
+                                ^
+1 error
